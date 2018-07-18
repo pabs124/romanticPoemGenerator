@@ -1,0 +1,42 @@
+h1 {
+	font-family: 'Tangerine', cursive;
+	font-size: 1.6rem
+}
+
+h5 {
+	font-family: 'Merienda', cursive; 
+}
+
+.largeButton {
+    padding: 15px
+}
+
+.particles {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: -1;
+}
+
+.jumbotron {
+	height: 120px;
+	text-align: center;
+}
+.lyrics {
+	padding-top: 50px
+}
+.form {
+	padding: 25px
+}
+.generate {
+	align-items: center;
+}
+.card {
+	padding: 25px
+}
+
+body {
+	background-color: #b61924;
+}
